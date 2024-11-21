@@ -80,3 +80,57 @@ Write Effectively ( CONT. )
     write waht reciver prefer
     wirte very simple
     
+
+    Lingoda Web Reference
+
+    {
+        writing{
+            First Tips 
+                -1 Keep it simple{
+                    simple done 
+                    accurataly
+                    is better than 
+                    complicated done
+
+                }
+                -2 Is prepare key phrases {
+                    Linking word and keyfram to prepare++
+                    Go to research and prepare
+                    important are : {
+                        Give Exmaple
+                        Give your Oppinion
+                        FOr my perspectiive
+                        of course.....
+                        show course 
+                        to begin with 
+                        in summery
+                        in short 
+                    }
+                -3 Do not use contraction {
+                    Cannt to can't 
+                    DO not to don't 
+                    Shall not to shan't
+                }
+                -4 Reduce your word count {
+                    Avoide the deadn way word like 
+                    Very, so, alot, really, replace instand with the strong word
+
+                    Avoid There is/ there are Exmaple :
+
+                        1 there are manuy problems that may encounter
+                }
+                -5 Read the right materials {
+                    Read report,read essay, read articles,
+                }
+                -6 Chwck your own word {
+                    When you already know, and you think that's easy, and say out the not decent words, like Teacher, this is suck, why still you teach that, that baby can understand.
+                    must Write less, check more,
+                    and accuratycy
+                }
+                -7 Get your work checked {
+                    example write the easay and let your teacher check it, for analysing,
+                }
+        }
+
+    }
+}
