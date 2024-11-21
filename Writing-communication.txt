@@ -1,0 +1,76 @@
+Effective Business Writeing {
+    Wrtring without event typographic errors are critical
+    Some tips for successful writeing :
+        {
+            Purpose: Think About purpose carefully
+            Adjure obfuscation ( to avoid confusion )
+            Brevity ( shortness ) and clearify
+            Give credit where and when due
+        }
+}
+
+
+
+
+
+
+
+
+
+Exmaple (Good or nah is goodto read)_{
+    from
+    To
+    CC 
+    BCC 
+    Subject
+
+
+     Dear Tom. 
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+
+    Thanks. 
+    Juile 
+
+
+    none subject line
+
+
+
+} else (This what we need to write to... ){
+
+    subjet line : nfkdnfkdfdkfknfsndfnsdkfnkdsnfsdfksd
+
+
+    Dear Tom. 
+
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+    
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+    
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+    jbfdgbfdfdgbdfgbdg;djfgkjfd;gdjfgjfdngjdfg;jdfng
+
+    Thanks. 
+    Juile 
+
+} 
+Write Effectively ( CONT. )
+    {
+        C. Know Your Audie 
+         - Know to whom you writing.
+         - You need to be professional ( peak pick ot pyouch, do not lg peak, must use : commonly use, understad, simple, Logic )
+         - Be certain that everyone understand
+         - When doubt, add a brife explanation, spell it out or give an example
+        D. Organization of the message
+         - You may have more than one request or call for action if the action are unrelated to each  other; the best is to send a seperate email fo each one.
+         - serverl requet/fact, you can use tpoic headings: backgroundd, responese is needed, conders instruction, Direction,FAQs
+    }
